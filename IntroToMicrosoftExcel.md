@@ -3,4 +3,6 @@ I learned how to create an Excel Spreadsheet by using a free version of Microsof
 
 [Microsoft Excel](https://www.coursera.org/account/accomplishments/verify/YU2FB3RMTT9L)
 
+<img src="Coursera 3672NRFFMNAG.pdf" alt="My Certificate">
+
 
