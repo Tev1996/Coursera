@@ -7,8 +7,8 @@ from the various courses I took. I sorted them out from the first topic, to the 
 
 
 # Microsoft Excel
- 1. [Introduction](Acme_Company_Move.xlsx)
+ 1. [Introduction](https://www.coursera.org/account/accomplishments/verify/YU2FB3RMTT9L)
 
  2. [Formulas]()
   
- 3. [Introduction to Data Analysis using Microsoft Excel]()
+ 3. [Introduction to Data Analysis using Microsoft Excel](https://www.coursera.org/account/accomplishments/verify/3672NRFFMNAG)
