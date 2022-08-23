@@ -9,6 +9,6 @@ from the various courses I took. I sorted them out from the first topic, to the 
 # Microsoft Excel
  1. [Introduction](https://www.coursera.org/account/accomplishments/verify/YU2FB3RMTT9L)
 
- 2. [Formulas]()
+ 2. [Formulas](https://www.coursera.org/learn/using-basic-formulas-functions-microsoft-excel/home/week/1)
   
  3. [Introduction to Data Analysis using Microsoft Excel](https://www.coursera.org/account/accomplishments/verify/3672NRFFMNAG)
