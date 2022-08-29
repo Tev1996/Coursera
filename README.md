@@ -16,5 +16,5 @@ from the various courses I took. I sorted them out from the first topic, to the 
 
 
 # Google Career Pathway 
-  1. [Google IT Support Professional Certificate]()
+  1. [Google IT Support Professional Certificate](https://coursera.org/share/9374e2087867e3436b6a97ef43825a24)
      - Eight-month IT support program, developed by Google, that covers troubleshooting, customer service,networking, operating systems, system administration, and security, and includes hands-on labs
