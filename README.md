@@ -12,3 +12,8 @@ from the various courses I took. I sorted them out from the first topic, to the 
  2. [Formulas](https://www.coursera.org/learn/using-basic-formulas-functions-microsoft-excel/home/week/1)
   
  3. [Introduction to Data Analysis using Microsoft Excel](https://www.coursera.org/account/accomplishments/verify/3672NRFFMNAG)
+
+
+
+# Google Certificate 
+  1. [Google IT Support Professional Certificate]()
